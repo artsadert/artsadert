@@ -9,4 +9,4 @@
 
 [![artsadert's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artsadert&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  
 [![artsadert's github streak](https://github-readme-streak-stats.herokuapp.com/?user=artsadert&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)  
-![top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artsadert&theme=github_dark&exclude=Python,Rust,Lua,C++)  
+![top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artsadert&theme=github_dark&exclude=python,rust,lua,c++)  
